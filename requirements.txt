@@ -1,0 +1,9 @@
+Install Visual studio with c++ Env
+pip install cmake
+pip install dlib
+pip install face-recognition
+pip install opencv-python
+pip install numpy
+opencv-python~=4.5.5.62
+Pillow~=9.0.0
+numpy~=1.22.1
